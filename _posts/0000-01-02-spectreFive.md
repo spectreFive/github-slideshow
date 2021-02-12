@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is so fun learning GitHub!
+Ask not what your country can do for you; Ask what you can do for your country.
 Use the left arrow to go back!
